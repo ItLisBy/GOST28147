@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="GOST">
+    <output-path>$PROJECT_DIR$/jar</output-path>
+    <root id="root">
+      <element id="archive" name="GOST28147.jar">
+        <element id="module-output" name="GOST28147" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/libs/bcprov-jdk15on-169.jar" />
+    </root>
+  </artifact>
+</component>
